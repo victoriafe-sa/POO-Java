@@ -13,10 +13,22 @@ public class maina {
         System.out.println("x * y = " + (x*y));
         System.out.println("x/y = " + ((float)x/y));
         
-        //Operadores relacionais
-        // == igualdade
-        // != diferença
-        // <> menor e maior
-         
+        /*Operadores relacionais
+        * == igualdade
+        * != diferença
+        * <> menor e maior
+        */
+        
+        /*Operador logico
+         * a && b (.and.)
+         * a || b (.or.)
+         */
+
+         /*Tipos de dados
+          * string nome = "Luiz"
+          * string sobrenome = "Lima"
+          * System.out.print("Aluno: " + nome + "" + sobrenome);
+          * int idade = 19;
+          */
     }
 }
