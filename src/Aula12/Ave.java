@@ -3,7 +3,7 @@ package Aula12;
 public class Ave extends Animal{
     private String corPena;
 
-    public String getCorPena(){
+    public String getcorPena(){
         return corPena;
     }
     public void setCorPena(String corPena){
