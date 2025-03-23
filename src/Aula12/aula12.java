@@ -13,6 +13,15 @@ public class aula12 {
         GoldFish g = new GoldFish();
         Arara e = new Arara();
 
-        
+        m.emitirSom();
+        r.emitirSom();
+        p.emitirSom();
+        a.emitirSom();
+        c.emitirSom();
+        k.emitirSom();
+        j.emitirSom();
+        t.emitirSom();
+        g.emitirSom();
+        e.emitirSom();
     }
 }
