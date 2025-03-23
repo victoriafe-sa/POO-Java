@@ -6,22 +6,13 @@ public class aula12 {
         Reptil r = new Reptil();
         Peixe p = new Peixe();
         Ave a = new Ave();
+        Canguru c = new Canguru();
+        Cachorro k = new Cachorro();
+        Cobra j = new Cobra();
+        Tartaruga t = new Tartaruga();
+        GoldFish g = new GoldFish();
+        Arara e = new Arara();
 
-        m.setPeso(35.5f);
-        m.setCorPelo("Marrom");
-        m.locomover();
-        m.emitirSom();
-        m.alimentar();
-
-        r.setCorEscama("Verde");
-        r.setIdade(15);
-
-        a.locomover();
-        a.emitirSom();
-        a.fazerNinho();
-
-        p.alimentar();
-        p.emitirSom();
-    
+        
     }
 }
